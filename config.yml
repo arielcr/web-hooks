@@ -1,4 +1,5 @@
 ---
 # Configuration
-holidaygiftcenter: holiday_gift_center.php
+LOCAL_ROOT: /
+
 
