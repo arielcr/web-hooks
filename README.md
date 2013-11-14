@@ -17,6 +17,7 @@ This WebHook updates the files on a remote server every time your make a push to
 2. Place the URL to `http://yoursite.com/web-hooks/update-server.php`
 3. Commit/Push your site
 4. Your site will be under `http://yoursite.com/your-repo-name`
+5. For every repo there is a log file in the __logs__ folder indicating all the commits made for that repo. Be sure that this folder is writable by the web server
 
 
 _More WebHooks to be added soon ..._
